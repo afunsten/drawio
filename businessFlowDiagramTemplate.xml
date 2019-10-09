@@ -1,7 +1,5 @@
 <mxGraphModel dx="1186" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
   <root>
-    <mxCell id="2KqlvXrMR-LT1DQyBoZo-0"/>
-    <mxCell id="2KqlvXrMR-LT1DQyBoZo-1" style="" parent="2KqlvXrMR-LT1DQyBoZo-0"/>
     <mxCell id="Dhm0c4HYx-o3231eXJaM-0" value="Logo" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fillColor=#99CCFF;strokeColor=#007FFF;" vertex="1" parent="2KqlvXrMR-LT1DQyBoZo-1">
       <mxGeometry x="20" y="39.5" width="80" height="80" as="geometry"/>
     </mxCell>
