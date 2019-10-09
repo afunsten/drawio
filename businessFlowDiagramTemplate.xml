@@ -1,10 +1,10 @@
-<mxGraphModel dx="1172" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+<mxGraphModel dx="1186" dy="2348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
   <root>
     <mxCell id="2KqlvXrMR-LT1DQyBoZo-0"/>
     <mxCell id="2KqlvXrMR-LT1DQyBoZo-1" style="" parent="2KqlvXrMR-LT1DQyBoZo-0"/>
     <mxCell id="MBWVucNQm9WBOlfhL2gj-0" value="Tasks" parent="2KqlvXrMR-LT1DQyBoZo-0"/>
     <mxCell id="MBWVucNQm9WBOlfhL2gj-1" value="Stages" style="" parent="2KqlvXrMR-LT1DQyBoZo-0"/>
-    <mxCell id="sy0bhzZ1IhXMp_x4TbuI-5" value="Container" style="swimlane;labelBackgroundColor=none;fontColor=#CCCCCC;" vertex="1" parent="MBWVucNQm9WBOlfhL2gj-1">
+    <mxCell id="sy0bhzZ1IhXMp_x4TbuI-5" value="Container" style="swimlane;labelBackgroundColor=none;fontColor=#CCCCCC;align=left;labelPosition=center;verticalLabelPosition=top;verticalAlign=top;" parent="MBWVucNQm9WBOlfhL2gj-1" vertex="1">
       <mxGeometry width="1500" height="960" as="geometry">
         <mxRectangle x="-1700" width="810" height="480" as="alternateBounds"/>
       </mxGeometry>
